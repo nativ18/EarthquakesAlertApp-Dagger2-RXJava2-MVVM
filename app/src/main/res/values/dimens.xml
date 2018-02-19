@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- fonts sizes -->
+    <dimen name="big">30sp</dimen>
+    <dimen name="normal">16sp</dimen>
+    <dimen name="small">12sp</dimen>
+
+    <!-- Splash Screen Activity-->
+    <dimen name="splash_screen_top_marign">20dp</dimen>
+
+    <!-- Eathquakes adapter -->
+    <dimen name="adapter_loading_pb_size">60dp</dimen>
+    <dimen name="adapter_loading_title_top_margin_height">10dp</dimen>
+    <dimen name="adapter_loading_pb_top_margin">40dp</dimen>
+</resources>

@@ -1,0 +1,2 @@
+Configuration 'compile' in project ':app' is deprecated. Use 'implementation' instead.
+app: 'androidProcessor' dependencies won't be recognized as kapt annotation processors. Please change the configuration name to 'kapt' for these artifacts: 'com.android.databinding:compiler:3.0.1' and apply the kapt plugin: "apply plugin: 'kotlin-kapt'".

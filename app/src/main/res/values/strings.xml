@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Earthquakes Alert</string>
+
+    <!-- Misc -->
+    <string name="network_error">Error occurred while requesting new earthquakes. Please try again later</string>
+    <string name="ok">Okay</string>
+    <string name="dialog_confirmation_title">Oops!</string>
+    <string name="no_network">Please check your network connection</string>
+    <string name="toast_playservices_missing">Please install Play Services in order to view the map</string>
+
+    <!--Earthquake Item -->
+    <string name="earthquake_item_time">Date and time: %s</string>
+    <string name="earthquake_item_depth">Depth: %s</string>
+    <string name="earthquake_item_location">Location: %s</string>
+    <string name="earthquake_item_magnitude">Magnitude: %s</string>
+    <string name="earthquake_item_id">Id: %s</string>
+    <string name="earthquake_item_src">Source: %s</string>
+
+    <!-- Map Activity -->
+    <string name="activity_map_title">Map</string>
+
+    <!-- Main Activity -->
+    <string name="activity_main_drawer_title">Choose Client</string>
+    <string name="activity_main_urlconnection_vm">HttpURLConnection Client</string>
+    <string name="activity_main_retrofit_vm">Retrofit Client</string>
+    <string name="activity_main_retrofit_vm_snackbar_text">Using Retrofit client. Change it from left drawer</string>
+    <string name="activity_main_urlconnection_vm_snackbar_text">Using HttpURLConnection client. Change it from left drawer</string>
+    <string name="activity_main_menu_first_action">View All In Map</string>
+    <string name="activity_main_title">Earthquakes Alert</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="loading_item_title">Loading Earthquakes</string>
+
+</resources>
